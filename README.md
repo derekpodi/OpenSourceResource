@@ -1,2 +1,2 @@
 # OpenSourceResource
-Hub for open source projects
+Hub for finding Open Source Projects

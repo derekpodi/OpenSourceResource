@@ -11,3 +11,6 @@ Hub for finding Open Source Projects
 
 
 #### Open Source Intelligence (OSINT)
+
+###### 1. Shodan
+

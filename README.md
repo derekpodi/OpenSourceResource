@@ -13,10 +13,11 @@ Hub for finding Open Source Projects
 
 ###### 5. hping
 
+###### 6. Nikto
+
 
 
 #### Open Source Intelligence (OSINT)
 
 ###### 1. Shodan
 
-###### 2. Nikto

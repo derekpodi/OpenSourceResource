@@ -1,7 +1,7 @@
 # OpenSourceResource
 Hub for finding Open Source Projects
 
-#### Security Tools
+#### Security Tools / Open Source Intelligence (OSINT)
 
 ###### 1. OWASP - ZAP
 
@@ -19,9 +19,5 @@ Hub for finding Open Source Projects
 
 ###### 8. WinHex
 
-
-
-#### Open Source Intelligence (OSINT)
-
-###### 1. Shodan
+###### 9. Shodan.io
 

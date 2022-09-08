@@ -11,13 +11,13 @@ Hub for finding Open Source Projects
 
 ###### 4. Burp Suite. - web security toolkit
 
-###### 5. hping
+###### 5. hping. - packet generator and analyzer for the TCP/IP protocol 
 
-###### 6. Nikto
+###### 6. Nikto. - command-line vulnerability scanner
 
-###### 7. AngryIP
+###### 7. AngryIP. - IP network scanner
 
-###### 8. WinHex
+###### 8. WinHex. - disk editor and universal hexadecimal editor used for data recovery and digital forensics
 
-###### 9. Shodan.io
+###### 9. Shodan.io - search engine for servers connected to the internet
 

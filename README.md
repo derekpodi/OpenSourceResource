@@ -17,7 +17,7 @@ Hub for finding Open Source Projects
 
 ###### 7. AngryIP. - IP network scanner
 
-###### 8. WinHex. - disk editor and universal hexadecimal editor used for data recovery and digital forensics
+###### 8. [WinHex](https://x-ways.net/winhex/index-m.html). - disk editor and universal hexadecimal editor used for data recovery and digital forensics
 
 ###### 9. Shodan.io - search engine for servers connected to the internet
 

@@ -15,7 +15,7 @@ Hub for finding Open Source Projects
 
 ###### 6. Nikto. - command-line vulnerability scanner
 
-###### 7. AngryIP. - IP network scanner
+###### 7. [AngryIP](https://angryip.org/). - IP network scanner
 
 ###### 8. [WinHex](https://x-ways.net/winhex/index-m.html). - disk editor and universal hexadecimal editor used for data recovery and digital forensics
 

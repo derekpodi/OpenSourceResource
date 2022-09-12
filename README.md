@@ -13,11 +13,11 @@ Hub for finding Open Source Projects
 
 ###### 5. hping. - packet generator and analyzer for the TCP/IP protocol 
 
-###### 6. Nikto. - command-line vulnerability scanner
+###### 6. [Nikto](https://github.com/sullo/nikto). - command-line vulnerability scanner
 
 ###### 7. [AngryIP](https://angryip.org/). - IP network scanner
 
 ###### 8. [WinHex](https://x-ways.net/winhex/index-m.html). - disk editor and universal hexadecimal editor used for data recovery and digital forensics
 
-###### 9. Shodan.io - search engine for servers connected to the internet
+###### 9. [Shodan.io](https://www.shodan.io/) - search engine for servers connected to the internet
 

@@ -3,7 +3,7 @@ Hub for finding Open Source Projects
 
 #### Security Tools / Open Source Intelligence (OSINT)
 
-###### 1. OWASP ZAP  - web application security scanner 
+###### 1. [OWASP ZAP](https://github.com/zaproxy/zaproxy)  - web application security scanner 
 
 ###### 2. [NMAP](https://nmap.org/). - network scanner
 

@@ -21,3 +21,4 @@ Hub for finding Open Source Projects
 
 ###### 9. [Shodan.io](https://www.shodan.io/) - search engine for servers connected to the internet
 
+###### 10. [OWASP CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - make files to get up and running fast

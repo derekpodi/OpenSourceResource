@@ -19,6 +19,6 @@ Hub for finding Open Source Projects
 
 ###### 8. [WinHex](https://x-ways.net/winhex/index-m.html). - disk editor and universal hexadecimal editor used for data recovery and digital forensics
 
-###### 9. [Shodan.io](https://www.shodan.io/) - search engine for servers connected to the internet
+###### 9. [Shodan.io](https://www.shodan.io/) - search engine for the internet of everything
 
 ###### 10. [OWASP CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - concise collection of high value information on specific application security topics
